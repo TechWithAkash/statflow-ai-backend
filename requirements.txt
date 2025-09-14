@@ -1,0 +1,16 @@
+# backend/requirements.txt
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+pydantic==2.11.1
+pandas==2.3.1
+pyarrow==21.0.0
+openpyxl==3.1.5
+xlrd==2.0.1
+scikit-learn==1.7.1
+numpy==2.3.2
+sqlalchemy==2.0.43
+aiosqlite==0.21.0
+python-multipart==0.0.20
+websockets==15.0.1
+starlette==0.47.2
+orjson==3.11.0
